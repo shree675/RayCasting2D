@@ -1,7 +1,7 @@
 # RayCasting2D
 
 ## About
-<p>This is a simple program that simulates/renders the intersection of light rays with a solid obstacle.</p>
+<p>This is a simple program that simulates/renders the intersection of light rays with a solid two dimensional obstacle.</p>
 <p>Watch the rendering here:</p>
 
 <img src="https://github.com/shree675/RayCasting2D/blob/main/assets_gif/Ray_Casting2D.gif" width="400" height="300">
