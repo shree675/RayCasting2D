@@ -14,4 +14,6 @@ Alternatively, click [here](https://github.com/shree675/RayCasting2D/tree/main/a
 Visit [pygame](https://www.pygame.org/wiki/GettingStarted).
 
 ## Version
-2021
+2020
+
+The main code is in [ray_casting_2D.py](https://github.com/shree675/RayCasting2D/blob/main/ray_casting_2D.py).
